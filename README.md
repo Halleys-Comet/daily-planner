@@ -10,5 +10,4 @@ A website that offers a 9AM-5PM calendar where you can save tasks for your day. 
 
 ## Website
 
-https://halleys-comet.github.io/daily-planner/.
 
